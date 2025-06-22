@@ -5,9 +5,12 @@ This project focuses on building a production-ready ELT data pipeline for Airbnb
 2. DataMartCreation:Developanalyticalviewsforneighborhoodandproperty-type insights.
 3. Business Insights: Answer key questions using SQL queries on demographic and revenue patterns, supporting strategic decision-making.
 # Tools and Techniques
+
 • Airflow: Orchestrates data ingestion and transformation.
+
 • dbt: Manages data transformations and schema definitions for eEicient data
 warehousing.
+
 • Postgres: Stores and organizes transformed data into structured schemas,
 enhancing data accessibility.
 # Dataset Overview
